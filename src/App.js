@@ -6,6 +6,7 @@ class App {
     const count = await Console.readLineAsync('승리를 위한 횟수를 입력하세요: ');
 
     // 코드를 작성해 주세요.
+    // PR 제출 예시
 
     return;
   }
